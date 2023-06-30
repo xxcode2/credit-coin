@@ -1,12 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/aXE4aGVPDs1pGcm0y4/giphy.gif" height="338" width="600"/>
-</div>
-
-
-
-<div align="center">
-
 
 
  <img align="top" src="https://komarev.com/ghpvc/?username=Megumiiiiii&color=ff69b4&style=plastic&label=Visitors" height='35'/>
